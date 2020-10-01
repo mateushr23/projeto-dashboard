@@ -1,0 +1,59 @@
+.cabeçalho {
+  padding: 10px;
+}
+
+.cabeçalho,
+.box,
+.box header,
+.box > div {
+  width: 100%;
+}
+
+.box {
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid rgb(184, 180, 180);
+  background-color: #fff;
+}
+
+.box header {
+  padding: 15px 15px;
+  justify-content: space-between;
+}
+
+.box header,
+.box > div,
+.info-box {
+  display: flex;
+  align-items: center;
+}
+
+.box > div {
+  padding: 20px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.box header h3 {
+  font-weight: 500;
+  padding-bottom: 15px;
+  border-bottom: 3px solid green;
+}
+
+.info-box {
+  width: 200px;
+  height: 100px;
+  padding: 20px 10px;
+  justify-content: space-evenly;
+}
+
+.info-box strong {
+  margin-right: 10px;
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.MuiDialogContent-root{
+  display: flex;
+  align-items: center;
+}

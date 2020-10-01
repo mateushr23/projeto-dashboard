@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "day": "08/09",
+      "delivered": 40,
+      "payment": 9,
+      "transport": 20,
+      "waiting": 15
+    },
+    {
+      "day": "09/09",
+      "delivered": 50,
+      "payment": 20,
+      "transport": 30,
+      "waiting": 10
+    },
+    {
+      "day": "10/09",
+      "delivered": 60,
+      "payment": 30,
+      "transport": 40,
+      "waiting": 40
+    },
+    {
+      "day": "11/09",
+      "delivered": 70,
+      "payment": 15,
+      "transport": 35,
+      "waiting": 60
+    },
+    {
+      "day": "12/09",
+      "delivered": 60,
+      "payment": 40,
+      "transport": 10,
+      "waiting": 30
+    },
+    {
+      "day": "14/09",
+      "delivered": 65,
+      "payment": 54,
+      "transport": 20,
+      "waiting": 27
+    },
+    {
+      "day": "15/09",
+      "delivered": 85,
+      "payment": 60,
+      "transport": 28,
+      "waiting": 20
+    }
+  ]
+}
