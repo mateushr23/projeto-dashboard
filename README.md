@@ -1,3 +1,3 @@
-yarn/npm install
-json-server public/db.json --port 8000
-yarn start
+yarn/npm install <br/> 
+json-server public/db.json --port 8000 <br/> 
+yarn start <br/> 
